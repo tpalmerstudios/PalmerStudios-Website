@@ -1,0 +1,26 @@
+h1.menuTitle {
+	text-align: center;
+	color: #4b4138;
+	font-size: 3em;
+	font-family: "Peace Sans";
+}
+nav.moreThings ul li {
+	height: 125px;
+	vertical-align: center;
+	line-height: 125px;
+	display: inline-block;
+	text-align: center;
+	width: 25%;
+	margin: 0 2% 10% 5%;
+}
+nav.moreThings ul li a {
+	text-decoration: none;
+	font-size: 2em;
+	background-color: #D2CBBF;
+	color: #4B4138;
+	display: block;
+	font-family: "Helvetica";
+}
+nav.moreThings ul li a:hover {
+	background-color: transparent;
+}

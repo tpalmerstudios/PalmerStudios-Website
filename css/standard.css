@@ -1,0 +1,80 @@
+@font-face {
+	font-family: "Peace Sans";
+	src: url ("fonts/peacesans.otf") format("opentype");
+}
+@font-face {
+	font-family: "Peace Sans";
+	src: url ("fonts/peacesans.ttf") format("truetype");
+}
+body {
+	background-color: #56718F;
+	margin: 0;
+}
+nav.topBar {
+	height: 125px;
+	vertical-align: middle;
+	line-height: 125px;
+	width: 100%;
+	font-family: "Peace Sans";
+	font-size: 2em;
+}
+ul.navTopBar {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+li.nav {
+	display: inline-block;
+	float: left;
+	width: 20%;
+	background-color: #4B4138;
+}
+li.current {
+	background-color: transparent;
+}
+li.nav a {
+	text-decoration: none;
+	color: #D2CBBF;
+	width: 100%;
+	display: inline-block;
+}
+li.nav a:hover {
+	background-color: #D2CBBF;
+	color: #4B4138;
+}
+img.logo {
+	height: 125px;
+	vertical-align: top;
+}
+article {
+	text-align: center;
+	padding: 0 20% 0% 20%;
+	height: 100%;
+}
+h1.articleTitle {
+	font-family: helvetica;
+}
+article p {
+	font-size: 1.25em;
+	color: #D2CBBF;
+	font-family: helvetica;
+}
+footer {
+	background-color: #D2CBBF;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	height: 7%;
+}
+footer ul {
+	list-style: none;
+}
+footer ul li {
+	display: inline;
+	margin: 0 5% 0 5%;
+}
+footer ul li a {
+	text-decoration: none;
+}
