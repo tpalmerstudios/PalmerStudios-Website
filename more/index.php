@@ -2,12 +2,12 @@
 <html lang="en-us">
 	<head>
 		<meta charset="utf-8">
-		<base href="/new">
+		<base href="/">
 		<title>PalmerStudios: More</title>
 		<meta name="author" content="Tim Palmer, tpalmerstudios@gmail.com">
-		<link rel="stylesheet" href="/new/css/standard.css">
-		<link rel="stylesheet" href="/new/css/paragraphs.css">
-		<link rel="stylesheet" href="/new/css/more/index.css">
+		<link rel="stylesheet" href="/css/standard.css">
+		<link rel="stylesheet" href="/css/paragraphs.css">
+		<link rel="stylesheet" href="/css/more/index.css">
 	</head>
 	<body>
 		<div class="holder">
@@ -15,20 +15,20 @@
 				<ul class="navTopBar">
 					<li class="nav" title="PalmerStudios">
 						<a href="#">
-							<img src="/new/images/PS.png" alt="PS" class="nav logo"/>
+							<img src="/images/PS.png" alt="PS" class="nav logo"/>
 						</a>
 					</li>
 					<li class="nav" title="See Our Work">
-						<a href="/new/portfolio/">Portfolio</a>
+						<a href="/portfolio/">Portfolio</a>
 					</li>
 					<li class="nav" title="Ask Questions">
-						<a href="/new/forum/">Forum</a>
+						<a href="/forum/">Forum</a>
 					</li>
 					<li class="nav" title="Learn Stuff">
-						<a href="/new/learn/">Learn</a>
+						<a href="/learn/">Learn</a>
 					</li>
 					<li class="nav current" title="More Information">
-						<a href="/new/more/">More</a>
+						<a href="/more/">More</a>
 					</li>
 				</ul>
 			</nav>
@@ -37,38 +37,38 @@
 				<nav class="moreThings">
 					<ul>
 						<li title="About">
-							<a href="/new/more/about.php">About</a>
+							<a href="/more/about.php">About</a>
 						</li>
 						<li title="Server Details">
-							<a href="/new/more/details.php">Details</a>
+							<a href="/more/details.php">Details</a>
 						</li>
 						<li title="Donate">
-							<a href="/new/more/donate.php">Donate</a>
+							<a href="/more/donate.php">Donate</a>
 						</li>
 						<li title="FAQ">
-							<a href="/new/more/faq.php">FAQ</a>
+							<a href="/more/faq.php">FAQ</a>
 						</li>
 						<li title="Photos">
-							<a href="/new/more/photos.php">Photos</a>
+							<a href="/more/photos.php">Photos</a>
 						</li>
 						<li title="Products">
-							<a href="/new/more/products.php">Products</a>
+							<a href="/more/products.php">Products</a>
 						</li>
 			</p>
 			<footer>
 				<nav class="footer">
 					<ul>
 						<li>
-							<a href="/new/contact.php">Contact Us</a>
+							<a href="/contact.php">Contact Us</a>
 						</li>
 						<li>
-							<a href="/new/hire.php">Hire Us</a>
+							<a href="/hire.php">Hire Us</a>
 						</li>
 						<li>
-							<a href="/new/copyright.php">Copyright &copy; Timothy Palmer 2016</a>
+							<a href="/copyright.php">Copyright &copy; Timothy Palmer 2016</a>
 						</li>
 						<li>
-							<a href="/new/sitemap.php">Site Map</a>
+							<a href="/sitemap.php">Site Map</a>
 						</li>
 					</ul>
 				</nav>

@@ -2,11 +2,11 @@
 <html lang="en-us">
 	<head>
 		<meta charset="utf-8">
-		<base href="/new">
+		<base href="/">
 		<title>PalmerStudios: Copyright</title>
 		<meta name="author" content="Tim Palmer, tpalmerstudios@gmail.com">
-		<link rel="stylesheet" href="/new/css/standard.css">
-		<link rel="stylesheet" href="/new/css/paragraphs.css">
+		<link rel="stylesheet" href="/css/standard.css">
+		<link rel="stylesheet" href="/css/paragraphs.css">
 	</head>
 	<body>
 		<div class="holder">
@@ -14,20 +14,20 @@
 				<ul class="navTopBar">
 					<li class="nav" title="PalmerStudios">
 						<a href="#">
-							<img src="/new/images/PS.png" alt="PS" class="nav logo"/>
+							<img src="/images/PS.png" alt="PS" class="nav logo"/>
 						</a>
 					</li>
 					<li class="nav" title="See Our Work">
-						<a href="/new/portfolio/">Portfolio</a>
+						<a href="/portfolio/">Portfolio</a>
 					</li>
 					<li class="nav" title="Ask Questions">
-						<a href="/new/forum/">Forum</a>
+						<a href="/forum/">Forum</a>
 					</li>
 					<li class="nav" title="Learn Stuff">
-						<a href="/new/learn/">Learn</a>
+						<a href="/learn/">Learn</a>
 					</li>
 					<li class="copyright nav" title="More Information">
-						<a href="/new/more/">More</a>
+						<a href="/more/">More</a>
 					</li>
 				</ul>
 			</nav>
@@ -43,16 +43,16 @@
 				<nav class="footer">
 					<ul>
 						<li>
-							<a href="/new/contact.php">Contact Us</a>
+							<a href="/contact.php">Contact Us</a>
 						</li>
 						<li>
-							<a href="/new/hire.php">Hire Us</a>
+							<a href="/hire.php">Hire Us</a>
 						</li>
 						<li>
-							<a href="#">Copyright &copy; Timothy Palmer 2016</a>
+							<a href="/copyright.php">Copyright &copy; Timothy Palmer 2016</a>
 						</li>
 						<li>
-							<a href="/new/sitemap.php">Site Map</a>
+							<a href="/sitemap.php">Site Map</a>
 						</li>
 					</ul>
 				</nav>
