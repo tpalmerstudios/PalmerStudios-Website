@@ -1,10 +1,10 @@
 @font-face {
-	font-family: "Peace Sans";
-	src: url ("fonts/peacesans.otf") format("opentype");
+	font-family: "PeaceSans";
+	src: url("/css/fonts/peacesans.otf") format("opentype");
 }
 @font-face {
-	font-family: "Peace Sans";
-	src: url ("fonts/peacesans.ttf") format("truetype");
+	font-family: "PeaceSans";
+	src: url ("/css/fonts/peacesans.ttf") format("truetype");
 }
 body {
 	background-color: #56718F;
@@ -15,7 +15,7 @@ nav.topBar {
 	vertical-align: middle;
 	line-height: 125px;
 	width: 100%;
-	font-family: "Peace Sans";
+	font-family: "PeaceSans";
 	font-size: 2em;
 }
 ul.navTopBar {
@@ -66,13 +66,15 @@ footer {
 	bottom: 0;
 	width: 100%;
 	text-align: center;
-	height: 7%;
+	height: 50px;
 }
 footer ul {
 	list-style: none;
 }
 footer ul li {
 	display: inline;
+	vertical-align: middle;
+	ine-height: 50px;
 	margin: 0 5% 0 5%;
 }
 footer ul li a {
