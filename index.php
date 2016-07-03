@@ -42,24 +42,24 @@
 				Ask a question, learn something new, download a font. 
 				</p>
 			</article>
-			<footer>
-				<nav class="footer">
-					<ul>
-						<li>
-							<a href="/contact.php">Contact Us</a>
-						</li>
-						<li>
-							<a href="/hire.php">Hire Us</a>
-						</li>
-						<li>
-							<a href="/copyright.php">Copyright &copy; Timothy Palmer 2016</a>
-						</li>
-						<li>
-							<a href="/sitemap.php">Site Map</a>
-						</li>
-					</ul>
-				</nav>
-			</footer>
+		</div>
+		<div class="footer">
+			<nav class="footer">
+				<ul>
+					<li>
+						<a href="/contact.php">Contact Us</a>
+					</li>
+					<li>
+						<a href="/hire.php">Hire Us</a>
+					</li>
+					<li>
+						<a href="/copyright.php">Copyright &copy; Timothy Palmer 2016</a>
+					</li>
+					<li>
+						<a href="/sitemap.php">Site Map</a>
+					</li>
+				</ul>
+			</nav>
 		</div>
 	</body>
 </html>

@@ -39,7 +39,8 @@
 				Not sure what else to add... Maybe a privacy policy once I add the forum.
 				</p>
 			</article>
-			<footer>
+		</div>
+		<div class="footer">
 				<nav class="footer">
 					<ul>
 						<li>
@@ -56,7 +57,6 @@
 						</li>
 					</ul>
 				</nav>
-			</footer>
 		</div>
 	</body>
 </html>

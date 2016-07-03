@@ -10,15 +10,6 @@ body {
 	background-color: #56718F;
 	margin: 0;
 }
-div.holder {
-	min-height: 100%;
-	margin-bottom: -50px;
-}
-div.holder:after {
-	content: "";
-	display: block;
-	height: 50px;
-}
 nav.topBar {
 	height: 125px;
 	vertical-align: middle;
@@ -59,7 +50,8 @@ img.logo {
 article {
 	text-align: center;
 	padding: 0 20% 0% 20%;
-	height: 100%;
+	min-height: 100%;
+	margin-bottom: -50px;
 }
 h1.articleTitle {
 	font-family: helvetica;
@@ -69,22 +61,22 @@ article p {
 	color: #D2CBBF;
 	font-family: helvetica;
 }
-div.footer {
+footer {
 	background-color: #D2CBBF;
 	width: 100%;
 	height: 50px;
 	line-height: 50px;
 	vertical-align: middle;
 }
-div.footer ul {
+footer ul {
 	list-style: none;
 	text-align: center;
 }
-div.footer ul li {
+footer ul li {
 	padding: 0 5% 0 5%;
 	display: inline-block;
 }
-div.footer ul li a {
+footer ul li a {
 	text-decoration: none;
 	display: inline-block;
 }
